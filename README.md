@@ -1,37 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#AI-Expense-Analyzer
 
-## Getting Started
+An AI-powered financial advisor built to help users analyze and manage their finances effectively. Designed and developed as a prototype, this web application integrates AI technology to provide personalized financial advice based on user inputs, including income, expenses, and budgets. The goal is to help users make informed financial decisions and optimize their spending habits.
 
-First, run the development server:
+Features:
+- Expense Analyzer: Users can input their income, expenses, and budgets, and receive actionable insights on their spending patterns.
+- AI-Powered Financial Advice: Based on the user’s financial data, the AI provides customized advice to help them improve their financial situation.
+- Data Visualization: Interactive and visually appealing charts that make it easier to understand financial trends and patterns.
+- Responsive Design: Built with React and Tailwind CSS, the app ensures a smooth and user-friendly experience across devices.
+  
+Built with Next.js: Leveraging the latest Next.js framework for optimized performance and server-side rendering, ensuring a fast and responsive web app.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Expense-Tracker
+Technologies Used: JavaScript, React, Next.js, Tailwind CSS
