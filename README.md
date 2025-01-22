@@ -1,4 +1,4 @@
-#AI-Expense-Analyzer
+# AI-Expense-Analyzer
 
 An AI-powered financial advisor built to help users analyze and manage their finances effectively. Designed and developed as a prototype, this web application integrates AI technology to provide personalized financial advice based on user inputs, including income, expenses, and budgets. The goal is to help users make informed financial decisions and optimize their spending habits.
 
